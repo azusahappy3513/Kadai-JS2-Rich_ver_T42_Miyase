@@ -1,0 +1,54 @@
+.start_title{
+  z-index: index 10;
+  height: 700px;
+  width:  1200px;
+ }
+ .demo{text-align: center;}
+@keyframes sliderAnimation {
+    100% {
+      transform: translateX(-35%);
+    }
+ }
+
+ .Musix{display: flex;
+        justify-content: space-between;}
+ .Music{text-align: center;}
+ h1{font-size: larger;}
+
+.autoplay-slider{
+    display:flex;
+    min-width: 50%;
+    width: min-content;
+    animation: 10s linear infinite sliderAnimation;
+  }
+  .slide1,.slide2,.slide3,.slide4,.slide5 {
+    height:300px;
+    width:300px;
+    margin: 0px;
+    /* position: relative; */
+  } 
+    #result{
+      text-align: center;
+      font-size: 50px;
+      color: brown;
+      font-style: italic;
+      font-weight: bolder;
+      margin:0 0 0;
+    }
+    table {
+      margin-left: auto;
+      margin-right: auto;
+  }
+    .result_1{margin:0 0 auto;}
+    .abc{text-align: center;}
+    .ab{text-align: center;}
+
+    .Win_image{text-align: center;}
+
+  /* .slide1,.slide2,.slide3,.slide4,.slide5:hover{height:320px; */
+  /* .sub_copy{ */
+  /* .row{ */
+  /* .Battle{ */
+
+
+
