@@ -1,0 +1,1 @@
+# Kadai-JS2-Rich_ver_T42_Miyase
